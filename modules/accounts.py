@@ -36,7 +36,8 @@ accounts = {
     '余利宝': 'Assets:Bank:MyBank',
     '花呗': 'Liabilities:CreditCard:Huabei',
     '建设银行': 'Liabilities:CreditCard:CCB',
-    '招商银行(1386)': 'Liabilities:CreditCard:招商银行(WeChat)',
+    '招商银行(7033)': 'Liabilities:CreditCard:招商银行',
+    '招商银行(1386)': 'Assets:Bank:招商银行',
     '零钱': 'Assets:Balances:WeChat',
 }
 
